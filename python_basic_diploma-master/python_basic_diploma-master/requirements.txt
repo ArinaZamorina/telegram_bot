@@ -1,0 +1,14 @@
+pip~=22.2.2
+setuptools~=49.2.1
+bs4~=0.0.1
+beautifulsoup4~=4.11.1
+soupsieve~=2.3.2.post1
+utils~=1.0.1
+loader~=2017.9.11
+certifi~=2022.9.24
+peewee~=3.15.3
+requests~=2.28.1
+idna~=3.4
+urllib3~=1.26.12
+python-dotenv~=0.21.0
+pymysql~=1.0.2
