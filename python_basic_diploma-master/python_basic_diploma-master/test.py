@@ -152,7 +152,7 @@ def show_photo(message, hotels):
     url = "https://hotels4.p.rapidapi.com/properties/get-hotel-photos"
 
     headers = {
-        "X-RapidAPI-Key": "93840eb20bmsh569344d792332a5p11cccbjsn8ef099c66717",
+        "X-RapidAPI-Key": "RAPID_API_KEY",
         "X-RapidAPI-Host": "hotels4.p.rapidapi.com"
     }
 
