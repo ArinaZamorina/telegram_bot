@@ -6,7 +6,7 @@ import requests
 import telebot
 from telebot import types
 
-bot = telebot.TeleBot('Telebot')
+bot = telebot.TeleBot('BOT_TOKEN')
 CONTEXT = {}
 
 
